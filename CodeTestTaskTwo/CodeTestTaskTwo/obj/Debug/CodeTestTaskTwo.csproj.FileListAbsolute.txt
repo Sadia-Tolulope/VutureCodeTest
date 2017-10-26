@@ -1,0 +1,5 @@
+C:\Users\Sadia\Desktop\CodeTestTaskTwo\CodeTestTaskTwo\bin\Debug\CodeTestTaskTwo.exe.config
+C:\Users\Sadia\Desktop\CodeTestTaskTwo\CodeTestTaskTwo\bin\Debug\CodeTestTaskTwo.exe
+C:\Users\Sadia\Desktop\CodeTestTaskTwo\CodeTestTaskTwo\bin\Debug\CodeTestTaskTwo.pdb
+C:\Users\Sadia\Desktop\CodeTestTaskTwo\CodeTestTaskTwo\obj\Debug\CodeTestTaskTwo.exe
+C:\Users\Sadia\Desktop\CodeTestTaskTwo\CodeTestTaskTwo\obj\Debug\CodeTestTaskTwo.pdb
