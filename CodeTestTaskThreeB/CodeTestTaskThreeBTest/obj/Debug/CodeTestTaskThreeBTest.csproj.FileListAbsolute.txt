@@ -1,0 +1,6 @@
+C:\Users\Sadia\Desktop\CodeTestTaskThreeB\CodeTestTaskThreeBTest\bin\Debug\CodeTestTaskThreeBTest.dll
+C:\Users\Sadia\Desktop\CodeTestTaskThreeB\CodeTestTaskThreeBTest\bin\Debug\CodeTestTaskThreeBTest.pdb
+C:\Users\Sadia\Desktop\CodeTestTaskThreeB\CodeTestTaskThreeBTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sadia\Desktop\CodeTestTaskThreeB\CodeTestTaskThreeBTest\obj\Debug\CodeTestTaskThreeBTest.csprojResolveAssemblyReference.cache
+C:\Users\Sadia\Desktop\CodeTestTaskThreeB\CodeTestTaskThreeBTest\obj\Debug\CodeTestTaskThreeBTest.dll
+C:\Users\Sadia\Desktop\CodeTestTaskThreeB\CodeTestTaskThreeBTest\obj\Debug\CodeTestTaskThreeBTest.pdb
