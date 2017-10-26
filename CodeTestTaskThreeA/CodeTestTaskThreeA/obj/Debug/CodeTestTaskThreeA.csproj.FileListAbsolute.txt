@@ -1,0 +1,6 @@
+C:\Users\Sadia\Desktop\CodeTestTaskThreeA\CodeTestTaskThreeA\bin\Debug\CodeTestTaskThreeA.exe.config
+C:\Users\Sadia\Desktop\CodeTestTaskThreeA\CodeTestTaskThreeA\bin\Debug\CodeTestTaskThreeA.exe
+C:\Users\Sadia\Desktop\CodeTestTaskThreeA\CodeTestTaskThreeA\bin\Debug\CodeTestTaskThreeA.pdb
+C:\Users\Sadia\Desktop\CodeTestTaskThreeA\CodeTestTaskThreeA\obj\Debug\CodeTestTaskThreeA.csprojResolveAssemblyReference.cache
+C:\Users\Sadia\Desktop\CodeTestTaskThreeA\CodeTestTaskThreeA\obj\Debug\CodeTestTaskThreeA.exe
+C:\Users\Sadia\Desktop\CodeTestTaskThreeA\CodeTestTaskThreeA\obj\Debug\CodeTestTaskThreeA.pdb
