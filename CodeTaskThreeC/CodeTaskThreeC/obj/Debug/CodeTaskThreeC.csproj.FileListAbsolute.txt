@@ -1,0 +1,6 @@
+C:\Users\Sadia\Desktop\CodeTaskThreeC\CodeTaskThreeC\bin\Debug\CodeTaskThreeC.exe.config
+C:\Users\Sadia\Desktop\CodeTaskThreeC\CodeTaskThreeC\bin\Debug\CodeTaskThreeC.exe
+C:\Users\Sadia\Desktop\CodeTaskThreeC\CodeTaskThreeC\bin\Debug\CodeTaskThreeC.pdb
+C:\Users\Sadia\Desktop\CodeTaskThreeC\CodeTaskThreeC\obj\Debug\CodeTaskThreeC.csprojResolveAssemblyReference.cache
+C:\Users\Sadia\Desktop\CodeTaskThreeC\CodeTaskThreeC\obj\Debug\CodeTaskThreeC.exe
+C:\Users\Sadia\Desktop\CodeTaskThreeC\CodeTaskThreeC\obj\Debug\CodeTaskThreeC.pdb
