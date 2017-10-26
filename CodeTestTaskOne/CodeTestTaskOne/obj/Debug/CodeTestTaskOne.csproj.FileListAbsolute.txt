@@ -1,0 +1,9 @@
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\bin\Debug\CodeTestTaskOne.exe.config
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\bin\Debug\CodeTestTaskOne.exe
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\bin\Debug\CodeTestTaskOne.pdb
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\bin\Debug\CodeTestTaskOneTest.dll
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\bin\Debug\CodeTestTaskOneTest.pdb
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\obj\Debug\CodeTestTaskOne.csprojResolveAssemblyReference.cache
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\obj\Debug\CodeTestTaskOne.exe
+C:\Users\Sadia\Desktop\CodeTestTaskOne\CodeTestTaskOne\obj\Debug\CodeTestTaskOne.pdb
